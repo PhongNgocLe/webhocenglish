@@ -1,0 +1,106 @@
+{
+  "features": [
+    {
+      "title": "Học qua ngữ cảnh thực tế",
+      "description": "Không chỉ là từ vựng rời rạc, bạn sẽ học cách sử dụng câu trong tình huống đời thường qua các video sinh động."
+    },
+    {
+      "title": "Hệ thống ghi nhớ thông minh (SRS)",
+      "description": "Thuật toán lặp lại ngắt quãng giúp bạn ghi nhớ từ vựng mãi mãi mà không cần nỗ lực quá nhiều."
+    },
+    {
+      "title": "Tương tác 1-1 cùng AI",
+      "description": "Luyện phát âm và giao tiếp phản xạ bất cứ lúc nào với trợ lý ảo được tối ưu hóa cho người Việt."
+    }
+  ],
+  "demoLessons": [
+    {
+      "title": "Bài 01 - Phá băng giao tiếp",
+      "duration": "5 phút",
+      "level": "Cơ bản",
+      "description": "Học 10 mẫu câu mở đầu để bắt chuyện tự nhiên và thoải mái với người nước ngoài.",
+      "bullets": ["Áp dụng Small talk trong đời thực", "Tập nói đúng nhịp câu", "Tăng tự tin khi mở lời"],
+      "sample": ["Hi, how are you?", "Where are you from?", "What do you do?"]
+    },
+    {
+      "title": "Bài 02 - Giao tiếp công việc",
+      "duration": "7 phút",
+      "level": "Trung cấp",
+      "description": "Kỹ năng giao tiếp văn phòng với các mẫu câu chuẩn dùng trong email và họp online.",
+      "bullets": ["Từ vựng chuyên ngành dễ nhớ", "Câu trả lời linh hoạt", "Giữ nhịp tự nhiên khi nói"],
+      "sample": ["Could you clarify that?", "I will follow up soon.", "Let me know your thoughts."]
+    },
+    {
+      "title": "Bài 03 - Phản xạ phát âm nhanh",
+      "duration": "6 phút",
+      "level": "Tăng tốc",
+      "description": "Bài tập phát âm /s/ và /z/ giúp bạn nói rõ ràng và tự tin hơn trong mọi tình huống.",
+      "bullets": ["Phát âm đúng âm cuối", "Luyện tập cùng video mẫu", "Nhận phản hồi nhanh"],
+      "sample": ["This is a success.", "She has a house.", "Please pass the notes."]
+    }
+  ],
+  "lessonDatabase": [
+    {
+      "title": "Bài 04 - Từ vựng du lịch",
+      "duration": "8 phút",
+      "level": "Cơ bản",
+      "description": "Tăng vốn từ về du lịch, đơn giản để bạn có thể hỏi đường và đặt phòng khách sạn.",
+      "highlight": "Thực hành trực tiếp những câu hỏi và đáp án cơ bản."
+    },
+    {
+      "title": "Bài 05 - Hội thoại nhà hàng",
+      "duration": "7 phút",
+      "level": "Cơ bản",
+      "description": "Những mẫu câu thiết yếu khi gọi món, hỏi phục vụ và thanh toán.",
+      "highlight": "Giúp bạn ăn uống tự tin khi đi du lịch hoặc làm việc tại nước ngoài."
+    },
+    {
+      "title": "Bài 06 - Viết email chuyên nghiệp",
+      "duration": "9 phút",
+      "level": "Trung cấp",
+      "description": "Hướng dẫn cấu trúc email công việc, thuyết phục và lịch sự.",
+      "highlight": "Bài tập mẫu email theo từng tình huống thực tế."
+    },
+    {
+      "title": "Bài 07 - Giao tiếp phỏng vấn",
+      "duration": "10 phút",
+      "level": "Trung cấp",
+      "description": "Chuẩn bị và luyện tập các câu hỏi thường gặp trong phỏng vấn xin việc.",
+      "highlight": "Tăng tự tin trả lời câu hỏi cá nhân và mục tiêu nghề nghiệp."
+    },
+    {
+      "title": "Bài 08 - Kỹ năng thuyết trình",
+      "duration": "12 phút",
+      "level": "Nâng cao",
+      "description": "Học cách trình bày ý tưởng rõ ràng, mạch lạc và cuốn hút.",
+      "highlight": "Kèm lời khuyên về giọng nói và cử chỉ tự nhiên."
+    }
+  ],
+  "quizData": [
+    {
+      "question": "Câu nào dưới đây là cách chào buổi sáng phù hợp trong môi trường công việc?",
+      "options": ["Good morning, how are you?", "See you later", "Happy birthday", "Good night"],
+      "answer": 0
+    },
+    {
+      "question": "Bạn nên nói gì khi muốn nhờ đồng nghiệp giải thích lại?",
+      "options": ["Could you repeat that, please?", "I do not know.", "Maybe later.", "That is wrong."],
+      "answer": 0
+    },
+    {
+      "question": "Câu nào sau đây dùng để đề nghị giúp đỡ một cách lịch sự?",
+      "options": ["Can I help you?", "Tell me now.", "You must do it.", "I will not help."],
+      "answer": 0
+    },
+    {
+      "question": "Khi kết thúc cuộc gọi, bạn nên nói gì để lịch sự?",
+      "options": ["Thank you for your time.", "Stop talking.", "I go now.", "Later."],
+      "answer": 0
+    },
+    {
+      "question": "Câu nào phù hợp để trả lời khi bạn chưa hiểu nội dung?",
+      "options": ["Could you explain that again?", "Yes, I know everything.", "No problem.", "I did not come."],
+      "answer": 0
+    }
+  ]
+}
